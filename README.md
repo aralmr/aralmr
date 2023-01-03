@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lara Mendes 👋</h1>
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/They/Him
 - 🔭 Data Scientist Intern at SEBRAE
 - 🎓 Undergraduate System Development Student at Estácio
 
