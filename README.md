@@ -13,7 +13,7 @@
 
 <p>
     <div class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/emily-sombra](https://www.linkedin.com/in/aralmr/)">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/aralmr">
 		    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
         </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/aralmr">
