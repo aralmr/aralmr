@@ -1,13 +1,13 @@
 <h1>Hi, I'm Lara Mendes 👋</h1>
 
 - 😄 Pronouns: She/They/Him
-- 🔭 Data Scientist Intern at SEBRAE
-- 🎓 Undergraduate System Development Student at Estácio
+- 🔭 Data Analysis and Marketing Intern at SEBRAE
+- 🎓 Technologist in System Development at Estácio
 
 <h3>&nbsp;Main tools </h3>
 
-![PowerBI](https://img.shields.io/badge/logo-powerbi-blue?logo=powerbi)
-![SQL](https://img.shields.io/badge/logo-sql-blue?logo=sql)
+![PowerBI](https://img.shields.io/badge/logo-PowerBI-blue?logo=PowerBI)
+![SQL](https://img.shields.io/badge/logo-SQL-blue?logo=SQL)
 
 <h3> &nbsp;Contact me </h3>
 
