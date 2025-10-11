@@ -6,8 +6,8 @@
 
 <h3>&nbsp;Main tools </h3>
 
-![PowerBI](https://img.shields.io/badge/logo-PowerBI-blue?logo=PowerBI)
-![SQL](https://img.shields.io/badge/logo-SQL-blue?logo=SQL)
+![PowerBI](https://img.shields.io/badge/PowerBI-blue?PowerBI)
+![SQL](https://img.shields.io/badge/SQL-blue?SQL)
 
 <h3> &nbsp;Contact me </h3>
 
