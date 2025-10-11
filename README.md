@@ -6,7 +6,7 @@
 
 <h3>&nbsp;Main tools </h3>
 
-![PowerBI](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/logo-powerbi-blue?logo=powerbi)
 ![SQL](https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
 <h3> &nbsp;Contact me </h3>
