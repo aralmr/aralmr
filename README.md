@@ -4,10 +4,10 @@
 - 🔭 Data Scientist Intern at SEBRAE
 - 🎓 Undergraduate System Development Student at Estácio
 
-<h3>&nbsp;Main languages and tools </h3>
+<h3>&nbsp;Main tools </h3>
 
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![PowerBI](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
 <h3> &nbsp;Contact me </h3>
 
