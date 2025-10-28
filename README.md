@@ -1,8 +1,28 @@
-<h1>Hi, I'm Lara Mendes 👋</h1>
+<h1>💡 Sobre mim
+Quero ser uma Analista de Dados Júnior com formação em Análise e Desenvolvimento de Sistemas.. Tenho paixão por transformar dados em informações estratégicas que apoiem a tomada de decisão e impulsionem resultados.
 
-- 😄 Pronouns: She/They/Him
-- 🔭 Data Analysis and Marketing Intern at SEBRAE
-- 🎓 Technologist in System Development at Estácio
+No meu dia a dia, gosto de trabalhar com coleta, tratamento e visualização de dados, aplicando boas práticas de análise e explorando ferramentas como SQL, Python, Power BI e Excel. Tenho facilidade em aprender novas tecnologias e busco constantemente aprimorar minhas habilidades em estatística, modelagem de dados e storytelling com dados.
+
+🎯 Objetivo profissional
+Contribuir para equipes de dados e projetos que valorizem a curiosidade analítica, a colaboração e o uso inteligente da informação para gerar impacto real nos negócios.
+
+📊 Principais competências:
+
+SQL | Python
+
+Power BI | Excel Avançado
+
+Limpeza e tratamento de dados
+
+Visualização e interpretação de indicadores
+
+Pensamento analítico e resolução de problemas
+
+🚀 Sempre aberta a novos desafios e oportunidades de aprendizado na área de dados! 👋</h1>
+
+- 😄 Pronomes: Ela/Elu/Ele
+- 🔭 Análise de Dados e Marketing no SEBRAE
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas na Estácio
 
 <h3>&nbsp;Main tools </h3>
 
