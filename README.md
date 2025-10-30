@@ -1,5 +1,6 @@
-<h1>💡 Sobre mim
-Quero ser uma Analista de Dados Júnior com formação em Análise e Desenvolvimento de Sistemas.. Tenho paixão por transformar dados em informações estratégicas que apoiem a tomada de decisão e impulsionem resultados.
+💡 Sobre mim
+
+Quero ser uma Analista de Dados Júnior. Possuo formação em Análise e Desenvolvimento de Sistemas. Tenho paixão por transformar dados em informações estratégicas que apoiem a tomada de decisão e impulsionem resultados.
 
 No meu dia a dia, gosto de trabalhar com coleta, tratamento e visualização de dados, aplicando boas práticas de análise e explorando ferramentas como SQL, Python, Power BI e Excel. Tenho facilidade em aprender novas tecnologias e busco constantemente aprimorar minhas habilidades em estatística, modelagem de dados e storytelling com dados.
 
@@ -18,7 +19,7 @@ Visualização e interpretação de indicadores
 
 Pensamento analítico e resolução de problemas
 
-🚀 Sempre aberta a novos desafios e oportunidades de aprendizado na área de dados! 👋</h1>
+🚀 Sempre aberta a novos desafios e oportunidades de aprendizado na área de dados! 👋
 
 - 😄 Pronomes: Ela/Elu/Ele
 - 🔭 Análise de Dados e Marketing no SEBRAE
