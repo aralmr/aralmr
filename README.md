@@ -1,6 +1,6 @@
 💡 Sobre mim
 
-Quero ser uma Analista de Dados Júnior. Possuo formação em Análise e Desenvolvimento de Sistemas. Tenho paixão por transformar dados em informações estratégicas que apoiem a tomada de decisão e impulsionem resultados.
+Quero ser uma Analista de Dados. Possuo formação em Análise e Desenvolvimento de Sistemas. Tenho paixão por transformar dados em informações estratégicas que apoiem a tomada de decisão e impulsionem resultados.
 
 No meu dia a dia, gosto de trabalhar com coleta, tratamento e visualização de dados, aplicando boas práticas de análise e explorando ferramentas como SQL, Python, Power BI e Excel. Tenho facilidade em aprender novas tecnologias e busco constantemente aprimorar minhas habilidades em estatística, modelagem de dados e storytelling com dados.
 
